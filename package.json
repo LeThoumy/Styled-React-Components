@@ -1,0 +1,19 @@
+git {
+  "name": "styled-react-components",
+  "version": "0.1.0",
+  "description": "Css-in-Jss powered solution for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeThoumy/Styled-React-Components.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeThoumy/Styled-React-Components/issues"
+  },
+  "homepage": "https://github.com/LeThoumy/Styled-React-Components#readme"
+}
