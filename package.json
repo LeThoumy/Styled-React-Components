@@ -1,4 +1,4 @@
-git {
+{
   "name": "styled-react-components",
   "version": "0.1.0",
   "description": "Css-in-Jss powered solution for React",
@@ -15,5 +15,6 @@ git {
   "bugs": {
     "url": "https://github.com/LeThoumy/Styled-React-Components/issues"
   },
-  "homepage": "https://github.com/LeThoumy/Styled-React-Components#readme"
+  "homepage": "https://github.com/LeThoumy/Styled-React-Components#readme",
+  "keywords": []
 }
